@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alletale aka Enrico Latella
-- 👀 I’m interested in financial and market analysis throughtout Python. I'm keen on building investment solutions and portfolio strategies. I've masters in Insurance Innovation and Portfolio & Risk Management.
-- 🌱 I’m currently developing financial models and Trading System using Python. I mainly trade stocks and ETFs using Candlestick patterns recognition. 
+- 👋 Hi, I’m Enrico Latella
+- 👀 I’m an Algorithmic Trader with expertise in designing and implementing cutting-edge Trading Strategies. Possessing a Master's degree in Insurance and Finance Innovation and Portfolio Risk Management, I bring a unique blend of financial acumen and innovation to the trading domain. 
+- 🌱 I’m currently developing Trading Systems using Python. I mainly trade Futures and Forex using Candlestick patterns recognition. 
 - 💞️ I’m looking to collaborate on financial projects using Pyhton. Please feel free to contact me. 
 - 📫 How to reach me out: Please contact me on my LinkedIn profile: https://www.linkedin.com/in/enricolatella/
 
