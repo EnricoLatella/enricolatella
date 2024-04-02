@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Enrico Latella from Italy 🇮🇹
 - 👀 I’m an Algorithmic Trader with expertise in designing and implementing cutting-edge Trading Strategies. Possessing a Master's degree in Insurance and Finance Innovation and Portfolio Risk Management, I bring a unique blend of financial acumen and innovation to the trading domain. 
 - 🌱 I’m currently developing Trading Systems using Python. I mainly trade Futures and Forex using Candlestick patterns recognition. 
-- 💞️ I’m looking to collaborate on financial projects using Pyhton. Please feel free to contact me. 
+- 💞️ I’m looking to collaborate on financial projects using Python. Please feel free to reach me out. 
 - 📫 How to reach me out: Please contact me on my LinkedIn profile: https://www.linkedin.com/in/enricolatella/
 
 <!---
